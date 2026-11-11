@@ -1,0 +1,39 @@
+{
+  "brief": {
+    "audience": "Small business owners and small teams",
+    "market": "United Kingdom",
+    "product": "A task management product for teams of 1–20 people, with task assignment, deadline reminders and project progress tracking."
+  },
+  "channels": [
+    {
+      "evidence": "联系页面说明其服务对象包括员工不超过 50 人的企业负责人，并会考虑合适的单篇投稿。资料核对日期：2026 年 11 月 9 日。",
+      "name": "Small Business UK",
+      "reason": "其企业负责人受众与英国小企业客户有交集。可尝试提出任务分配和截止日期管理的实用文章。这是基于资料的推断，并非该媒体的认可或承诺。",
+      "source": "https://smallbusiness.co.uk/contact-us/",
+      "unknown": "需确认是否接稿、编辑要求和商业条款；其受众范围大于 1–20 人团队。",
+      "url": "https://smallbusiness.co.uk/"
+    },
+    {
+      "evidence": "联系页面欢迎有合作意向的机构接洽，并提供小企业活动、项目和事件的邮件通讯。资料核对日期：2026 年 11 月 9 日。",
+      "name": "Small Business Britain",
+      "reason": "该机构关注英国小企业，可以探索团队协作主题的教学分享。产品演示只是合作建议，尚未得到对方确认。",
+      "source": "https://smallbusinessbritain.uk/contact",
+      "unknown": "商业产品能否参与、是否可刊登邮件通讯及受众团队规模均待确认。",
+      "url": "https://smallbusinessbritain.uk/"
+    },
+    {
+      "evidence": "联系页面邀请作者通过联系表单提交原创文章。资料核对日期：2026 年 11 月 9 日。",
+      "name": "SmallBusinessPro",
+      "reason": "该小企业媒体提供文章投稿入口，可尝试提交截止日期与任务职责管理方面的实用指南。",
+      "source": "https://www.smallbusinesspro.co.uk/contact.html",
+      "unknown": "目前的编辑活跃度、推广内容政策、读者规模和是否接稿尚待确认。",
+      "url": "https://www.smallbusinesspro.co.uk/"
+    }
+  ],
+  "created": "2026-11-11T12:16:48.708327+00:00",
+  "draft": "Subject: Practical content collaboration enquiry\n\nHello Small Business UK team,\n\nI am getting in touch about a product described as follows: A task management product for teams of 1–20 people, with task assignment, deadline reminders and project progress tracking.\n\nIt is intended for Small business owners and small teams in United Kingdom. We are exploring relevant channels and would like to ask whether a practical educational article or a short product demonstration could be suitable for your audience.\n\nWould you be open to reviewing a brief outline? Please let us know your submission guidelines, the appropriate contact, and any applicable commercial terms. We would be happy to adapt the proposal to your editorial requirements.\n\nKind regards,\n[Your name]\n[Product / company]\n[Contact details]",
+  "id": "c7bcefc8-7891-4e04-9237-b0364cec7e01",
+  "mode": "sample",
+  "next_step": "",
+  "notice": "示例资料库，资料核对日期为 2026 年 11 月 9 日。仅支持英国小企业任务管理场景，本次未执行实时搜索。"
+}
